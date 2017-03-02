@@ -1,0 +1,28 @@
+1. the characteristics of Big data in detail.
+
+* Volume -the size of data.
+* Velocity-the speed at which the data is generated.
+* Variety-the different types of data.
+* Veracity-the trustworthiness of the data in terms of accuracy.
+* Value-just having bigdata is no use unless we can turn it into values.
+ 
+2. the possible solutions to handle Big data.
+
+Scaleup- Increase the configuration of a single system
+ scale out-Use multiple commodity machines and distribute the load of
+storage/processing among them
+
+3.the differences between scaling up and scaling out
+
+Scale Up
+• Increase the configuration of a single system
+• Like disk capacity, RAM, data transfer speed
+• Complex, costly, and time consuming process
+
+ Scale Out
+• Use multiple commodity (economical) machines and distribute the load of
+storage/processing among them
+• Economical and quick to implement as it focuses on distribution of load
+• Instead of having a single system with 10 TB of storage and 80 GB of RAM,
+use 40 machines with 256 GB of storage and 2 GB of RAM
+
